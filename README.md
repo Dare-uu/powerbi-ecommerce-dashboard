@@ -15,3 +15,5 @@ Interactive Power BI dashboard built for analyzing sales performance and KPI tre
 - Excel
 
 ## Dashboard Preview
+<img width="635" height="355" alt="MadhavStore_Ecommerce_Dashboard" src="https://github.com/user-attachments/assets/949aca10-365a-45db-874d-ccf070b14961" />
+
